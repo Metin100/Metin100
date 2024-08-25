@@ -22,8 +22,8 @@ I’m familiar with:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/metin-abbaszade-34417a253/) (Optional)
-- [Instagram](https://www.instagram.com/methiinn/)) (Optional)
+- [LinkedIn](https://www.linkedin.com/in/metin-abbaszade-34417a253/) 
+- [Instagram](https://www.instagram.com/methiinn/)
 
 ## 💡 Projects
 
