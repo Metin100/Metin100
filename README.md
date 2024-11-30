@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a beginner developer exploring the world of 
 - 🔭 I’m currently learning: Python, C
 - 🌱 I’m working on: small projects, learning new concepts
 - 💬 Feel free to ask me about:  programming basics, coding challenges
-- 📫 How to reach me: M3tinAbbas9@gmail.com
+- 📫 How to reach me: metinabbaszade@yahoo.com
 
 ## 🛠️ Skills & Tools
 
